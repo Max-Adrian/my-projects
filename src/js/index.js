@@ -20,4 +20,3 @@ botaoFecharModal.addEventListener("click", () => {
     video.setAttribute("src", "")
 });
 
-alert("clica no butão ali em baixo meu anjo")
